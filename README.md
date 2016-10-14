@@ -1,0 +1,2 @@
+# myblog
+record something
